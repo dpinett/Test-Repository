@@ -126,6 +126,17 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>ExternalID__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <externalId>true</externalId>
+        <label>ExternalID</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
         <fullName>IsReductionOrder</fullName>
     </fields>
     <fields>
